@@ -90,6 +90,3 @@ This project represents a simple server that allows interaction with a database 
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## Contact
-
-For any questions or inquiries, please contact [Mohamad Shaheen](https://github.com/MohamadShaheen).
