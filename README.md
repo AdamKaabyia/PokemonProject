@@ -4,7 +4,7 @@
 https://pokemonproject.w3spaces.com/
 this is a live url 
 
-#server:
+# server:
 This project represents a simple server that allows interaction with a database of Pokemon. One can view, search, and filter Pokemon information through the terminal or the FastAPI interface.
 
 ## Features
