@@ -1,5 +1,9 @@
 # Pokemon Project
 
+#front-end:
+https://pokemonproject.w3spaces.com/
+
+#server:
 This project represents a simple server that allows interaction with a database of Pokemon. One can view, search, and filter Pokemon information through the terminal or the FastAPI interface.
 
 ## Features
