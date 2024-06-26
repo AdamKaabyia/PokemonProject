@@ -18,6 +18,7 @@ This project represents a simple server that allows interaction with a database 
 - Delete Pokemon or trainer
 - Delete Pokemon from trainer
 - Evolve Pokemon of specific trainer
+- Bettle between trainers
 
 ## Technologies Used
 
